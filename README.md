@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/veronica-silva-434332150/
 - 😄 Pronouns: She/Her
 
-<div align="center">
+<div>
   <a href="https://github.com/veronica-silva">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=veronica-silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronica-silva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=veronica-silva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronica-silva&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="vero-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
