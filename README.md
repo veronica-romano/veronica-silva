@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning PHP/Laravel
+- 🌱 I’m currently learning PHP/Javascript
 - 📫 How to reach me: https://www.linkedin.com/in/veronica-silva-434332150/
 - 😄 Pronouns: She/Her
 
