@@ -1,4 +1,4 @@
-### Olá, Eu sou a Veronica! 👋
+### Hi, I'm Veronica! 👋
 
 <!--
 **veronica-silva/veronica-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
