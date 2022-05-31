@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <div align="center">
     <a href="https://github.com/veronica-silva">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=veronica-silva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronica-silva&layout=compact&langs_count=7&theme=github_light"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronica-silva&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
   
