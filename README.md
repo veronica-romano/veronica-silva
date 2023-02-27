@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
  # Hi, I'm Veronica! 👋
-  Dev from Brazil 
+  Developer from Brazil 
   <br>
  :rainbow_flag:  She/Ela
 </div>
