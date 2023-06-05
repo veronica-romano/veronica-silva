@@ -31,10 +31,7 @@ Here are some ideas to get you started:
             :books: I’m currently learning:
   <div style="display: inline_block"><br>
         <img align="center" alt="vero-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-        <img align="center" alt="vero-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="vero-vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-plain.svg">
-        
-  
+        <img align="center" alt="vero-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    
 </div> 
 
 </div>
