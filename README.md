@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
  
 <div align="center">
-            🖥️ I work with:
+            🖥️ I have experience with:
   <div style="display: inline_block"><br>
         <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
         <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"> 
