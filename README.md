@@ -35,6 +35,7 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </a>
    <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" />  </a>
    <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="VueJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original-wordmark.svg" />  </a>
+      <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />  </a>
  </div>
  </div>
 
