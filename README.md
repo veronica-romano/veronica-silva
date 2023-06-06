@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
  # Hi, I'm Veronica! 👋
- Software Developer from Brazil 
+ FullStack Software Developer from Brazil 
   <br>
  :rainbow_flag:  She/Ela
 </div>
