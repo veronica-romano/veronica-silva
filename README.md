@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 <div align="center">
             🖥️ I have experience with:
   <div style="display: inline_block"><br>
-        <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+         <a href="https://www.linkedin.com/in/veronica-l-silva/" ><img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
+        
         <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"> 
         <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
         <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" />  
