@@ -46,7 +46,7 @@ A FullStack Software Developer from Brazil
 <br><br>
 
 <div align="center">
-    <a href="https://github.com/veronica-silva">
+    <a href="https://www.linkedin.com/in/veronica-l-silva/">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=veronica-silva&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronica-silva&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
 </div>
