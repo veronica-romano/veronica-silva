@@ -37,7 +37,7 @@ A FullStack Software Developer from Brazil
    <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="VueJs" title="VueJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original-wordmark.svg" />  </a>
       <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />  </a>
     </a>
-      <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original-wordmark.svg" />  </a>
+      <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="JQuery" title="JQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original-wordmark.svg" />  </a>
  </div>
  </div>
 
