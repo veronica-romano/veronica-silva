@@ -19,7 +19,7 @@ A FullStack Software Developer from Brazil
 
 <div style="display: inline_block">
 <div align="center">
-  :iphone: Get in contact with me here: 
+  :iphone: Contact me here: 
   <div style="display: inline_block"><br>
     <a href="mailto:veronica.lima.silva@uni9.edu.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" title="Email me"></a>
     <a href="https://www.linkedin.com/in/veronica-l-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  title="Find me on LinkedIn" target="_blank"></a> 
