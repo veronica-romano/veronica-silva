@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Veronica! 👋
 
-A FullStack Software Developer from Brazil
+And I'm a FullStack Software Developer from Brazil
 <br>
 :rainbow_flag: She/Ela
 
