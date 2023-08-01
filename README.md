@@ -8,9 +8,10 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Veronica! 👋
+
+<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=005DF7&width=435&lines=Veronica+Silva;FullStack+Developer;Always+Learning)](https://git.io/typing-svg)
 <br>
-
 :rainbow_flag: She/Ela
 
 </div>
