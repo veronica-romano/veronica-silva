@@ -6,10 +6,10 @@
 
 Here are some ideas to get you started:
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0003F7&center=true&vCenter=true&width=300&height=35&lines=Veronica+Silva;FullStack+Developer;Always+Learning)](https://git.io/typing-svg)
+
 # Hi, I'm Veronica! 👋
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0003F7&center=true&vCenter=true&width=400&height=40&lines=Veronica+Silva;FullStack+Developer;Always+Learning)](https://git.io/typing-svg)
 
 <br>
 :rainbow_flag: She/Ela
