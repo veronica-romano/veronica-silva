@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div> <br>
 
 <div align="center"
-     <p> 🖥️ I have experience with these: </p>
+     <p> 🖥️ I have experience with: </p>
   <div style="display: inline_block"><br>
    <a href="https://www.linkedin.com/in/veronica-l-silva/" ><img align="center" alt="php" title="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
    <a href="https://www.linkedin.com/in/veronica-l-silva/"><img align="center" alt="Laravel" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></a>
