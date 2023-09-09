@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0003F7&center=true&vCenter=true&height=40&lines=Veronica+Silva;FullStack+Developer;Always+Learning)](https://git.io/typing-svg)
 <br>
-:rainbow_flag: She/Ela
+:rainbow_flag: She/They
 
 </div>
 <br>
