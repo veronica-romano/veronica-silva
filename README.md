@@ -32,7 +32,7 @@ Here are some ideas to get you started:
      <p> 🖥️ I have some experience with: </p>
   <div style="display: inline_block"><br>
    <a href="https://www.linkedin.com/in/veronica-l-silva/" ><img align="center" alt="php" title="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
-   <a href="https://www.linkedin.com/in/veronica-l-silva/"><img align="center" alt="Laravel" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></a>
+   <a href="https://www.linkedin.com/in/veronica-l-silva/"><img align="center" alt="Laravel" title="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"></a>
    <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </a>
    <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="ReactJS" title="ReactJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" />  </a>
    <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="VueJs" title="VueJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original-wordmark.svg" />  </a>
