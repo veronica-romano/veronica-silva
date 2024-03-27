@@ -29,17 +29,16 @@ Here are some ideas to get you started:
 </div> <br>
 
 <div align="center"
-     <p> Over two years of experience with: </p>
+  <p> Over two years of experience with: </p>
   <div style="display: inline_block"><br>
-   <a href="https://www.linkedin.com/in/veronica-l-silva/" ><img align="center" alt="php" title="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
-   <a href="https://www.linkedin.com/in/veronica-l-silva/"><img align="center" alt="Laravel" title="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"></a>
-   <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </a>
-   <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="ReactJS" title="ReactJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" />  </a>
-   <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="VueJs" title="VueJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original-wordmark.svg" />  </a>
-      <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />  </a>
-    </a>
-      <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="JQuery" title="JQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original-wordmark.svg" />  </a>
- </div>
+    <a href="https://www.linkedin.com/in/veronica-l-silva/" ><img align="center" alt="php" title="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
+    <a href="https://www.linkedin.com/in/veronica-l-silva/"><img align="center" alt="Laravel" title="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"></a>
+    <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </a>
+    <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="ReactJS" title="ReactJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" />  </a>
+    <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="VueJs" title="VueJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original-wordmark.svg" />  </a> 
+    <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />  </a>
+    <a href="https://www.linkedin.com/in/veronica-l-silva/"> <img align="center" alt="jquery" title="jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />  </a>
+   </div>
  </div>
 
 <br><br>
